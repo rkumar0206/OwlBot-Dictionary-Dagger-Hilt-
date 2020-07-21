@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OwlBot Dictionary Retrofit</string>
+    <string name="nul">null</string>
+    <string name="type">Type :</string>
+    <string name="definition">Definition :</string>
+    <string name="example">Example :</string>
+</resources>
